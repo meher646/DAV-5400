@@ -1,1 +1,22 @@
-{"\ufeff{\n\u2006 \u2006 \u2006 \u2006 \"albums\": [\n\u2006 \u2006 \u2006 \u2006 \u2006 \u2006 \u2006 \u2006 {\n\u2006 \u2006 \u2006 \u2006 \u2006 \u2006 \u2006 \u2006 \u2006 \u2006 \u2006 \u2006 \"artist\": \"A.R. Rahman\",\n\u2006 \u2006 \u2006 \u2006 \u2006 \u2006 \u2006 \u2006 \u2006 \u2006 \u2006 \u2006 \"albumTitle\": \"Roja\",\n\u2006 \u2006 \u2006 \u2006 \u2006 \u2006 \u2006 \u2006 \u2006 \u2006 \u2006 \u2006 \"yearReleased\": 1992,\n\u2006 \u2006 \u2006 \u2006 \u2006 \u2006 \u2006 \u2006 \u2006 \u2006 \u2006 \u2006 \"songs\": [\"Naa Cheli Rojave\", \"Roja Roja\", \"Paruvam Vanaga\", \"Chinni Chinni Aasa\", \"Rukkumani Rukkumani\"]\n\u2006 \u2006 \u2006 \u2006 \u2006 \u2006 \u2006 \u2006 },\n\u2006 \u2006 \u2006 \u2006 \u2006 \u2006 \u2006 \u2006 {\n\u2006 \u2006 \u2006 \u2006 \u2006 \u2006 \u2006 \u2006 \u2006 \u2006 \u2006 \u2006 \"artist\": \"Devi Sri Prasad\",\n\u2006 \u2006 \u2006 \u2006 \u2006 \u2006 \u2006 \u2006 \u2006 \u2006 \u2006 \u2006 \"albumTitle\": \"Gabbar Singh\",\n\u2006 \u2006 \u2006 \u2006 \u2006 \u2006 \u2006 \u2006 \u2006 \u2006 \u2006 \u2006 \"yearReleased\": 2012,\n\u2006 \u2006 \u2006 \u2006 \u2006 \u2006 \u2006 \u2006 \u2006 \u2006 \u2006 \u2006 \"songs\": [\"Dekho Dekho Gabbar Singh\", \"Akasam Ammayaithe\", \"Pilla Nuvvu Leni Jeevitham\", \"Kevvu Keka\", \"Mandu Babulam\"]\n\u2006 \u2006 \u2006 \u2006 \u2006 \u2006 \u2006 \u2006 },\n\u2006 \u2006 \u2006 \u2006 \u2006 \u2006 \u2006 \u2006 {\n\u2006 \u2006 \u2006 \u2006 \u2006 \u2006 \u2006 \u2006 \u2006 \u2006 \u2006 \u2006 \"artist\": \"M.M. Keeravani\",\n\u2006 \u2006 \u2006 \u2006 \u2006 \u2006 \u2006 \u2006 \u2006 \u2006 \u2006 \u2006 \"albumTitle\": \"Baahubali: The Beginning\",\n\u2006 \u2006 \u2006 \u2006 \u2006 \u2006 \u2006 \u2006 \u2006 \u2006 \u2006 \u2006 \"yearReleased\": 2015,\n\u2006 \u2006 \u2006 \u2006 \u2006 \u2006 \u2006 \u2006 \u2006 \u2006 \u2006 \u2006 \"songs\": [\"Sivuni Aana\", \"Pacha Bottasi\", \"Dhivara\", \"Manohari\", \"Mamatala Talli\"]\n\u2006 \u2006 \u2006 \u2006 \u2006 \u2006 \u2006 \u2006 }\n\u2006 \u2006 \u2006 \u2006 ]\n}": null}
+{
+    "albums": [
+        {
+            "artist": "A.R. Rahman",
+            "albumTitle": "Roja",
+            "yearReleased": 1992,
+            "songs": ["Naa Cheli Rojave", "Roja Roja", "Paruvam Vanaga", "Chinni Chinni Aasa", "Rukkumani Rukkumani"]
+        },
+        {
+            "artist": "Devi Sri Prasad",
+            "albumTitle": "Gabbar Singh",
+            "yearReleased": 2012,
+            "songs": ["Dekho Dekho Gabbar Singh", "Akasam Ammayaithe", "Pilla Nuvvu Leni Jeevitham", "Kevvu Keka", "Mandu Babulam"]
+        },
+        {
+            "artist": "M.M. Keeravani",
+            "albumTitle": "Baahubali: The Beginning",
+            "yearReleased": 2015,
+            "songs": ["Sivuni Aana", "Pacha Bottasi", "Dhivara", "Manohari", "Mamatala Talli"]
+        }
+    ]
+}
