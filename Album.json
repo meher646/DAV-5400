@@ -1,5 +1,4 @@
-{
-    "albums": [
+[
         {
             "artist": "A.R. Rahman",
             "albumTitle": "Roja",
@@ -18,5 +17,5 @@
             "yearReleased": 2015,
             "songs": ["Sivuni Aana", "Pacha Bottasi", "Dhivara", "Manohari", "Mamatala Talli"]
         }
-    ]
-}
+]
+
