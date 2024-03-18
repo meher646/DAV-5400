@@ -1,21 +1,21 @@
 [
         {
-            "artist": "A.R. Rahman",
-            "albumTitle": "Roja",
-            "yearReleased": 1992,
-            "songs": ["Naa Cheli Rojave", "Roja Roja", "Paruvam Vanaga", "Chinni Chinni Aasa", "Rukkumani Rukkumani"]
+            "Artist": "A.R. Rahman",
+            "Album Title": "Roja",
+            "Year Released": 1992,
+            "Songs": ["Naa Cheli Rojave", "Roja Roja", "Paruvam Vanaga", "Chinni Chinni Aasa", "Rukkumani Rukkumani"]
         },
         {
-            "artist": "Devi Sri Prasad",
-            "albumTitle": "Gabbar Singh",
-            "yearReleased": 2012,
-            "songs": ["Dekho Dekho Gabbar Singh", "Akasam Ammayaithe", "Pilla Nuvvu Leni Jeevitham", "Kevvu Keka", "Mandu Babulam"]
+            "Artist": "Devi Sri Prasad",
+            "Album Title": "Gabbar Singh",
+            "Year Released": 2012,
+            "Songs": ["Dekho Dekho Gabbar Singh", "Akasam Ammayaithe", "Pilla Nuvvu Leni Jeevitham", "Kevvu Keka", "Mandu Babulam"]
         },
         {
-            "artist": "M.M. Keeravani",
-            "albumTitle": "Baahubali: The Beginning",
-            "yearReleased": 2015,
-            "songs": ["Sivuni Aana", "Pacha Bottasi", "Dhivara", "Manohari", "Mamatala Talli"]
+            "Artist": "M.M. Keeravani",
+            "Album Title": "Baahubali: The Beginning",
+            "Year Released": 2015,
+            "Songs": ["Sivuni Aana", "Pacha Bottasi", "Dhivara", "Manohari", "Mamatala Talli"]
         }
 ]
 
